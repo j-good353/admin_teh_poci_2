@@ -7,7 +7,7 @@ File: Main Css File
 */
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap");
 :root {
-  --tz-logo-lg-height: 18px;
+  --tz-logo-lg-height: 50px;
   --tz-logo-sm-height: 22px;
   --tz-leftbar-width: 240px;
   --tz-leftbar-width-md: 160px;
